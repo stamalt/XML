@@ -1,6 +1,6 @@
 <?xml version="1.0"
-  <name>Tanya</name>
-  <[Afirstname>Tanya</firstname>[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dlistname>Stamal</lastname>
+  <firstname>Tanya</firstname> 
+  <listname>Stamal</lastname>
   <age>32</age>
   <pets>
      <amount>1</amount>
