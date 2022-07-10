@@ -1,1 +1,16 @@
+<?xml>
+
+  <Summary>текст</Summary> 
+  <Project>текст</Project> 
+  <Component>текст</Component>
+  <Version>текст</Version>
+  <Severit>текст</Severit>
+  <Priority>текст</Priority>
+  <Status>текст</Status>
+  <Author>текст</Author>
+  <Assigned to>текст</Assigned>
+  <Environment>текст</Environment>
+  <Steps to reproduce>текст</Step to reproduce>
+  <Result>текст</Result>
+  <Expected result>текст</Expected>
 
